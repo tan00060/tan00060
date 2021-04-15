@@ -1,5 +1,12 @@
-### Hi there 👋
-- 📫 How to reach me: tan000060@algonquinlive.com
+### Michael Tan
+
+Hi, I'm Michael a student currently studying to become a mobile developer at Algonquin College.
+
+[img](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+
+- 📫 How to reach me:
+  - E-mail: tan000060@algonquinlive.com
+  - LinkedIn: 
 
 <!--
 **tan00060/tan00060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
