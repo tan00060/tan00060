@@ -26,7 +26,7 @@ Hi, I'm Michael a student currently studying to become a mobile developer at Alg
 
 </br>
 
-##Development
+## Development
 <img align="left" alt="Git" width="70px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
 <img align="left" alt="Docker" width="70px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
 <img align="left" alt="Postman" width="70px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
