@@ -16,6 +16,7 @@ Hi, I'm Michael a student currently studying to become a mobile developer at Alg
 <img align="left" alt="Kotlin" width="100px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> 
 
 </br>
+</br>
 
 ## Framework
 <img align="left" alt="REACT" width="90px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -23,7 +24,7 @@ Hi, I'm Michael a student currently studying to become a mobile developer at Alg
 <img align="left" alt="Material-UI" width="130px" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 <img align="left" alt="Bootstrap" width="130px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-
+</br>
 </br>
 
 ## Development
