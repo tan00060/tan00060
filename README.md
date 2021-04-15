@@ -33,6 +33,7 @@ Hi, I'm Michael a student currently studying to become a mobile developer at Alg
 ## 📫 How to reach me:
   - E-mail: tan000060@algonquinlive.com
   - LinkedIn: 
+  - Portfolio: https://tan00060.github.io/
 
 <!--
 **tan00060/tan00060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
