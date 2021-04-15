@@ -13,7 +13,7 @@ Hi, I'm Michael a student currently studying to become a mobile developer at Alg
 <img align="left" alt="C#" width="60px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
 <img align="left" alt="Java" width="80px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
 <img align="left" alt="Swift" width="90px" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> 
-<img align="left" alt="Kotlin" width="90px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> 
+<img align="left" alt="Kotlin" width="100px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> 
 
 </br>
 
