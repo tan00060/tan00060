@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 📫 How to reach me: tan000060@algonquinlive.com
 
 <!--
 **tan00060/tan00060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
