@@ -15,13 +15,14 @@ Hi, I'm Michael a student currently studying to become a mobile developer at Alg
 </br>
 
 ## Other
-
 <img align="left" alt="Xamarin" width="70px" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" /> 
 <img align="left" alt="C++" width="70px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
 <img align="left" alt="C#" width="70px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
 <img align="left" alt="Java" width="70px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
 <img align="left" alt="Swift" width="70px" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> 
 <img align="left" alt="Kotlin" width="70px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> 
+<img align="left" alt="Docker" width="70px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
+
 
 
 </br>
