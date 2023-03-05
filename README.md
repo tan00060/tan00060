@@ -1,6 +1,8 @@
 ### Michael Tan
 
-Hi, I'm Michael a student currently studying to become a mobile developer at Algonquin College.
+Hi, I'm Michael.
+
+I'm a web developer currently working for the Canadian Border Services Agency.
 
 
 
